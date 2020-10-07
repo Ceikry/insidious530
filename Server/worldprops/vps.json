@@ -1,0 +1,57 @@
+{
+  "name": "Insidious",
+
+  "GameSettings": {
+    "debug": true,
+    "dev": true,
+    "startGui": true,
+    "worldID":"1",
+    "countryID": "0",
+    "activity": "Insidious RSPS.",
+    "pvpWorld": false,
+    "msip": "127.0.0.1",
+    "default_xp_rate": "5",
+    "allow_slayer_reroll": false,
+    "enable_default_clan": true,
+    "enable_bots": true,
+    "autostock_ge": true,
+    "allow_token_purchase": true,
+    "message_of_the_week_identifier": "0",
+    "message_of_the_week_text": "Welcome to <col=ff0000>Insidious<col>! <br>We are in BETA phase, please make sure to report any issues!"
+  },
+
+  "ServerSettings": {
+    "max_players": "2000",
+    "max_npcs": "32000",
+    "new_player_location": "2524,5002,0",
+    "home_location": "3222,3218,0",
+    "data_path": "Server/data",
+    "cache_path": "Server/data/cache",
+    "store_path": "Server/data/store",
+    "save_path": "Server/data/players",
+    "configs_path": "Server/data/configs",
+    "grand_exchange_data_path": "Server/data/eco/",
+    "rare_drop_table_path": "Server/data/RDT.xml",
+    "object_parser_path": "Server/data/ObjectParser.xml",
+    "scripts_path": "Server/scripts/",
+    "dialogue_scripts_path": "Server/scripts/dialogue/",
+    "logs_path": "Server/data/logs/",
+    "bot_data_path": "Server/data/botdata/",
+    "database_name": "galaxyrs_global",
+    "database_username": "galaxyrs_admin",
+    "database_password": "97Fy(EVGgNda",
+    "database_address": "insidiousps.net",
+    "database_port": "3306"
+  },
+
+  "PluginToggles": {
+    "Trivia": false,
+    "RPS": false,
+    "Boredom": false,
+    "ShootingStars": true,
+    "MysteryBox": true,
+    "PKZone": false,
+    "ObjectParser": true,
+    "BlackJack": false
+  }
+}
