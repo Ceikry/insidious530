@@ -27,9 +27,9 @@
   },
 
   "debug": {
-    "item_debug": false,
-    "object_debug": false,
-    "npc_debug": false,
+    "item_debug": true,
+    "object_debug": true,
+    "npc_debug": true,
     "hd_login_region_debug": false,
     "hd_login_region_debug_verbose": false,
     "cache_debug": false,

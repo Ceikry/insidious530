@@ -17,3 +17,6 @@ Server/data/cache-backups
 Server/data/cache
 .env
 Server/src/main/java/Server/plugin/interaction/inter/custom/*
+/.github
+/.idea/workspace.xml
+/.idea/tasks.xml
