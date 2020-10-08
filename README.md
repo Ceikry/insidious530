@@ -18,7 +18,7 @@ Just notice that this is a custom version so may not work as have some work that
 
 ### License
 
-We use the AGPL 3.0 license, which can be found <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">here.</a> Please read and understand the license. Failure to follow the guidelines outlined in the license will result in legal action. If you know or hear of anyone breaking this license, please send a report, with proof, to Red Bracket#8151, ceikry#2724, or woahscam#8535 on discord or email woahscam@hotmail.com. **We WILL NOT change the license to fit your needs.**
+We use the AGPL 3.0 license, which can be found <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">here.</a> Please read and understand the license. Failure to follow the guidelines outlined in the license will result in legal action.
 
 
 [license-shield]: https://img.shields.io/badge/license-AGPL--3.0-informational
