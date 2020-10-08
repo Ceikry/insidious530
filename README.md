@@ -1,5 +1,7 @@
-[![AGPL-3.0 License][license-shield]][license-url]
-####Insidious 530
+[![AGPL-3.0 License][license-shield]][license-url]  
+
+#### Insidious 530
+
 Team:
 * Brad
 * Jack
